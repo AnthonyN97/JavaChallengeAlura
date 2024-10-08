@@ -30,7 +30,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes programas
    - En la ventana que se abre, ve a la pestaña "Dependencies".
    - Haz clic en el signo "+" en la esquina inferior izquierda y elige "Library".
    - Busca "gson" en el cuadro de búsqueda.
-   - Selecciona la versión 2.11.0 de Gson.
+   - Selecciona la versión de Gson.
    - Haz clic en "OK" para cerrar la ventana.
 
 4. **Obtener la API Key de Exchange Rate**
